@@ -1,7 +1,7 @@
 # playing-piano-with-a-robotic-hand
 Final project of the [MIT 6.834 Robotic Manipulation course, fall 2021](https://manipulation.csail.mit.edu/Fall2021/)
 
-[![Watch the 3-minutes presentation video](https://youtu.be/WzJJ4c6AqnE)](https://www.youtube.com/WzJJ4c6AqnE)
+[![Watch the 3-minutes presentation video](https://img.youtube.com/vi/WzJJ4c6AqnE/0.jpg)](https://www.youtube.com/WzJJ4c6AqnE)
 
 ## Dependencies
 
