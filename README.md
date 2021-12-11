@@ -19,3 +19,4 @@ git submodule update --init --recursive
 
 2. Run  `pianobot_notebook.ipynb` at a machine where sound output is available.
 
+3. Pre-computed simulation logs may be available upon requests. Due to its size (~10GB), the repo does not contain the log files.
