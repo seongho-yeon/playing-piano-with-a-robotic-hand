@@ -19,4 +19,3 @@ git submodule update --init --recursive
 
 2. Run  `pianobot_notebook.ipynb` at a machine where sound output is available.
 
-3. If you want to run the result of pre-computed dynamic simulation, unzip the pre-computed log inside the log folder.
